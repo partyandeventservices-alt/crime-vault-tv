@@ -1,0 +1,154 @@
+{
+  "providerName": "Crime Vault TV",
+  "language": "en-US",
+  "lastUpdated": "2026-09-28T04:30:00+00:00",
+  "categories": [
+    {
+      "name": "Film Noir Classics",
+      "query": "movies",
+      "order": "manual"
+    }
+  ],
+  "movies": [
+    {
+      "id": "detour-1945",
+      "title": "Detour",
+      "genres": ["crime", "drama"],
+      "tags": ["noir", "crime", "classics"],
+      "releaseDate": "1945-11-30",
+      "shortDescription": "A down-on-his-luck pianist hitchhikes to Hollywood, assumes a dead man's identity, and spirals into a nightmare of fate and murder.",
+      "longDescription": "Edgar G. Ulmer's legendary low-budget noir follows Al Roberts, a pianist hitchhiking to Hollywood whose ride ends in accidental death. Taking the dead man's identity to avoid suspicion, he is blackmailed by a ruthless drifter into a spiral of doom. The quintessential fatalistic noir.",
+      "thumbnail": "https://partyandeventservices-alt.github.io/crime-vault-tv/posters/detour-1945.jpg",
+      "content": {
+        "dateAdded": "2026-09-22T02:59:22+00:00",
+        "videos": [
+          {
+            "url": "https://archive.org/download/Detour_66/DetourPresentedByMoviePowder.mp4",
+            "quality": "SD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "doa-1949",
+      "title": "D.O.A.",
+      "genres": ["crime", "drama", "thriller"],
+      "tags": ["noir", "crime", "classics"],
+      "releaseDate": "1949-01-01",
+      "shortDescription": "Poisoned with a slow-acting toxin, a man has days to live and races to find his own killer before time runs out.",
+      "longDescription": "Edmond O'Brien stars as Frank Bigelow, a notary who walks into a police station to report a murder - his own. Told he has only days to live after being poisoned, he tears through a shadowy underworld to unmask his killer in this frantic noir classic.",
+      "thumbnail": "https://partyandeventservices-alt.github.io/crime-vault-tv/posters/doa-1949.jpg",
+      "content": {
+        "dateAdded": "2026-09-22T02:59:22+00:00",
+        "videos": [
+          {
+            "url": "https://archive.org/download/DOA1950/DOA%20(1950).mp4",
+            "quality": "SD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "scarlet-street-1945",
+      "title": "Scarlet Street",
+      "genres": ["crime", "drama"],
+      "tags": ["noir", "crime", "classics"],
+      "releaseDate": "1945-12-28",
+      "shortDescription": "A meek bank clerk and amateur painter falls for a femme fatale who exploits his art and his heart. Fritz Lang's dark noir masterpiece.",
+      "longDescription": "Fritz Lang directs Edward G. Robinson as Christopher Cross, a henpecked cashier whose secret paintings catch the eye of a scheming woman and her con-man boyfriend. What begins as infatuation becomes a trap of betrayal, murder, and guilt.",
+      "thumbnail": "https://partyandeventservices-alt.github.io/crime-vault-tv/posters/scarlet-street-1945.jpg",
+      "content": {
+        "dateAdded": "2026-09-22T02:59:22+00:00",
+        "videos": [
+          {
+            "url": "https://archive.org/download/ScarletStreet/Scarlet_Street.mp4",
+            "quality": "SD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hitch-hiker-1953",
+      "title": "The Hitch-Hiker",
+      "genres": ["crime", "thriller"],
+      "tags": ["noir", "crime", "classics"],
+      "releaseDate": "1953-01-01",
+      "shortDescription": "Two friends on a fishing trip pick up a hitchhiker who turns out to be a wanted killer. Ida Lupino's tense, lean noir.",
+      "longDescription": "Directed by Ida Lupino - the only woman directing noir in its heyday - this nerve-shredding thriller traps two ordinary men with a remorseless escaped killer in the Mexican desert, where one wrong move means death.",
+      "thumbnail": "https://partyandeventservices-alt.github.io/crime-vault-tv/posters/hitch-hiker-1953.jpg",
+      "content": {
+        "dateAdded": "2026-09-22T02:59:22+00:00",
+        "videos": [
+          {
+            "url": "https://archive.org/download/IdaLupinostheHitch-hiker1953/Hitch-hikervo.mp4",
+            "quality": "SD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "martha-ivers-1946",
+      "title": "The Strange Love of Martha Ivers",
+      "genres": ["crime", "drama"],
+      "tags": ["noir", "crime", "classics"],
+      "releaseDate": "1946-01-01",
+      "shortDescription": "A powerful woman's buried secret resurfaces when an old flame returns to town. Starring Barbara Stanwyck and Kirk Douglas.",
+      "longDescription": "Barbara Stanwyck is Martha Ivers, a ruthless heiress whose teenage crime binds her to a weak husband and a dark past. When an old flame returns, long-buried secrets threaten to destroy them all. Features Kirk Douglas in his screen debut.",
+      "thumbnail": "https://partyandeventservices-alt.github.io/crime-vault-tv/posters/martha-ivers-1946.jpg",
+      "content": {
+        "dateAdded": "2026-09-22T02:59:22+00:00",
+        "videos": [
+          {
+            "url": "https://archive.org/download/TheStrangeLoveOfMarthaIvers/TheStrangeLoveOfMarthaIversPresentedByMoviePowder.mp4",
+            "quality": "SD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "big-combo-1955",
+      "title": "The Big Combo",
+      "genres": ["crime", "drama"],
+      "tags": ["noir", "crime", "classics"],
+      "releaseDate": "1955-01-01",
+      "shortDescription": "An obsessed cop takes on a sadistic crime boss in a brutal game of cat-and-mouse. Stylish, hard-edged noir.",
+      "longDescription": "Cornel Wilde plays a detective consumed by his pursuit of a vicious mob kingpin, even as he falls for the gangster's moll. Joseph H. Lewis's ultra-stylish noir is famous for its shadows, sadism, and unforgettable climax.",
+      "thumbnail": "https://partyandeventservices-alt.github.io/crime-vault-tv/posters/big-combo-1955.jpg",
+      "content": {
+        "dateAdded": "2026-09-22T02:59:22+00:00",
+        "videos": [
+          {
+            "url": "https://archive.org/download/TheBigComboCornellWilde1955BOO/TheBigComboCornellWilde1955BOO.mp4",
+            "quality": "SD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "the-stranger-1946",
+      "title": "The Stranger",
+      "genres": ["crime", "drama", "thriller"],
+      "tags": ["noir", "crime", "classics"],
+      "releaseDate": "1946-07-10",
+      "shortDescription": "A federal agent hunts a Nazi war criminal hiding as a respected professor in a quiet Connecticut town. Orson Welles directs and stars.",
+      "longDescription": "Orson Welles directs and stars as Franz Kindler, a Nazi war criminal living under an assumed identity as a New England college professor. Federal agent Edward G. Robinson tracks him through a web of lies to a climactic confrontation in the town's clock tower. One of the great postwar noirs.",
+      "thumbnail": "https://partyandeventservices-alt.github.io/crime-vault-tv/posters/the-stranger-1946.jpg",
+      "content": {
+        "dateAdded": "2026-09-28T04:30:00+00:00",
+        "videos": [
+          {
+            "url": "https://archive.org/download/the-stranger-1946_202404/The%20Stranger%201946.mp4",
+            "quality": "SD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    }
+  ]
+}
